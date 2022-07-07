@@ -1,0 +1,12 @@
+@import "nullstyle.sass";
+
+.wrapper {
+	width: 100%;
+	height: auto;
+}
+.container {
+	max-width: 0px;  //need to change
+	padding: 0px 0px; //need to change
+	width: 100%;
+	margin: 0 auto;
+}
